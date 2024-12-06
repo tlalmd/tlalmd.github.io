@@ -1,0 +1,23 @@
+---
+title: Projects
+---
+## Trends in Lung Cancer During and After COVID-19 
+This is a two-part project focusing on 1) the incidence and 2) survival trends in lung cancer during and after COVID-19. I just published a manuscript on the incidence portion of this project in Cancers. Now that that has been completed, I plan on moving on to the second part of the project, which involves learning how to do survival analyses and other appropriate statistical tests. I will aggregate that work into a second manuscript, which will likely continue into early 2025. 
+
+----
+
+## The Association between Social Vulnerability and the Incidence of Early vs. Late-Stage Melanoma 
+
+This is one of my first clinical research projects. I am currently writing a manuscript based on my analyses and aim to have it submitted by the end of October 2024. Once that is completed, I have ideas for several other projects stemming from this overarching topic: geospatial analyses of this subject across various geographic regions in the US, classification and regression tree analysis to determine susceptible phenotypes, and evaluation of other melanoma risk factors on early- vs. late-stage disease incidence.  
+
+----
+
+## Provider Perceptions of Barriers to Care for GI Cancer Patients 
+
+This project started this past summer with a survey sent to various healthcare providers caring for patients with GI cancers at UH. There was an excellent response rate, which has led me to be able to conduct thorough descriptive statistical analyses of the results. I am working on generating a manuscript that summarizes our findings. The following steps will include conducting provider interviews to build on our survey data and eventual patient interviews to understand both perspectives better. This will require several more rounds of analysis and manuscript writing. Additionally, I aim to present this work at various conferences along the way, ranging from UH Research and Innovation Day this October to the ASCO GI symposium in January 2025 to the annual Health Disparities Symposium held at UH in 2026. My ultimate goal is to be able to bring our findings to administrative staff at UH to implement specific policy changes to mitigate barriers as perceived by providers and patients. 
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
